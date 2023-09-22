@@ -1,0 +1,1 @@
+Cau lenh khoi tao local repo: git init
