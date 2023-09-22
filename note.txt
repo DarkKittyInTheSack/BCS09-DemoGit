@@ -5,3 +5,9 @@ Cau lenh day cac file co su thay doi len Staging Area: git add <ten_file> , git 
 Kiem tra cac file : git status ( Kiem tra tren Staging), git log (Kiem tra commit tren branch repo)
 
 Tao mot commit kem voi tin nhan: git commit -m "noi_dung"
+
+
+3 buoc day len git
+1 - Day len Staging Area: git add . 
+2 - Commit nhung thay doi: git comit -m "noi dung"
+3 - Day len remote repo: git push
