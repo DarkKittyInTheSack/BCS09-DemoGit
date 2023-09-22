@@ -1,1 +1,7 @@
 Cau lenh khoi tao local repo: git init
+
+Cau lenh day cac file co su thay doi len Staging Area: git add <ten_file> , git add . (Day tat ca len cung luc)
+
+Kiem tra cac file : git status ( Kiem tra tren Staging), git log (Kiem tra commit tren branch repo)
+
+Tao mot commit kem voi tin nhan: git commit -m "noi_dung"
