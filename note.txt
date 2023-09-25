@@ -7,6 +7,7 @@ Kiem tra cac file : git status ( Kiem tra tren Staging), git log (Kiem tra commi
 Tao mot commit kem voi tin nhan: git commit -m "noi_dung"
 
 lenh lay mot ban sao tren git : git clone link_project_git
+lenh chuyen nhanh : git checkout
 
 
 3 buoc day len git
