@@ -6,6 +6,8 @@ Kiem tra cac file : git status ( Kiem tra tren Staging), git log (Kiem tra commi
 
 Tao mot commit kem voi tin nhan: git commit -m "noi_dung"
 
+lenh lay mot ban sao tren git : git clone link_project_git
+
 
 3 buoc day len git
 1 - Day len Staging Area: git add . 
